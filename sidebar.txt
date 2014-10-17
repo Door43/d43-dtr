@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dtr:home|Door43 (dtr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dtr|d43-dtr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dtr/archive/master.zip|d43-dtr.zip]]
+
+**Recent Changes**
+{{changes>ns = dtr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dtr|Ethnologue data]]
+
